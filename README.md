@@ -21,8 +21,7 @@ Personalizations of the project:
 - Use a Stack to put a text over an icon.
 
 Final result:
-
-
+![bloc02_inifinite_list](https://user-images.githubusercontent.com/22273142/180622795-1a4f7a7e-1c5c-473b-b36c-f2c107c01a0c.JPG)
 
 ---
 
